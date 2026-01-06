@@ -1,0 +1,37 @@
+{
+  "name": "claude-code-android-command",
+  "version": "1.0.0",
+  "description": "Claude Code custom commands for Android development workflow",
+  "main": "index.js",
+  "bin": {
+    "claude-code-android-command": "./bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "claude-code",
+    "android",
+    "gradle",
+    "spotless",
+    "workflow",
+    "cli"
+  ],
+  "author": "Nghicv",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nghicv/claude-code-android-command.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Nghicv/claude-code-android-command/issues"
+  },
+  "homepage": "https://github.com/Nghicv/claude-code-android-command#readme",
+  "files": [
+    "bin",
+    ".claude"
+  ],
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
