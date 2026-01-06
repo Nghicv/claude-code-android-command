@@ -4,7 +4,7 @@
   "description": "Claude Code custom commands for Android development workflow",
   "main": "index.js",
   "bin": {
-    "claude-code-android-command": "./bin/cli.js"
+    "claude-code-android-command": "bin/cli.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
